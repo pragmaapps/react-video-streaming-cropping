@@ -1,0 +1,8 @@
+declare module 'react-paypal-express-checkout'
+declare module 'react-star-rating-component'
+declare module 'react-paginate'
+declare module 'react-image-fallback'
+declare module 'react-chat-window'
+declare module 'react-beautiful-chat'
+declare module 'video-stream-merger'
+declare module 'react-multimedia-capture'

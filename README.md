@@ -8,12 +8,11 @@
 </p>
 <!-- Name -->
 <h1 align="center">
-  <a href="http://git.ipragmatech.com/ipragmatech/react-ecommerce">React Ecommerce</a>
+  <a href="http://git.ipragmatech.com/ipragmatech/react-ecommerce">React Video Streaming</a>
 </h1>
 <br/>
-The React Ecommerce is a project relying on [React](https://facebook.github.io/react/docs/hello-world.html) a powerful javascript library for building the user interface. In this project, I tried to show some features of react/react components as a ecommerce platform.
+The React Ecommerce is a project relying on <a href='https://facebook.github.io/react/docs/hello-world.html'>React</a> a powerful javascript library for building the user interface. In this project, I tried to show some features of react/react components for video streaming.
 The structure of this project give the ability to developer to develop their project on their own idea and environment.
-
 <p align="center">
   <a href="https://react-ipragmatech-ecommerce.herokuapp.com/">
     <img src="https://s3.amazonaws.com/react-ecommerce-ipragmatech/mockup.png">

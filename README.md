@@ -97,7 +97,7 @@ This layer is responsible for configuring of redux store, such as setting reduce
 
 
 ### Features
-  - Video Streamking
+  - Video streaming
   - Live video Chart
   - Resizing
   - Cropping

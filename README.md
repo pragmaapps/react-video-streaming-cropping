@@ -11,7 +11,7 @@
   <a href="http://git.ipragmatech.com/ipragmatech/react-ecommerce">React Video Streaming</a>
 </h1>
 <br/>
-The React Ecommerce is a project relying on <a href='https://facebook.github.io/react/docs/hello-world.html'>React</a> a powerful javascript library for building the user interface. In this project, I tried to show some features of react/react components for video streaming.
+The React Video Streaming is a project relying on <a href='https://facebook.github.io/react/docs/hello-world.html'>React</a> a powerful javascript library for building the user interface. In this project, I tried to show some features of react/react components for video streaming.
 The structure of this project give the ability to developer to develop their project on their own idea and environment.
 <p align="center">
   <a href="https://react-ipragmatech-ecommerce.herokuapp.com/">
@@ -44,7 +44,7 @@ and then install the package
 
 2. Go to the project root directory
    ```bash
-   cd react-ecommerce
+   cd react-video-dtreaming-cropping
    ```
 3. To install node dependencies use
   ```bash
@@ -97,13 +97,12 @@ This layer is responsible for configuring of redux store, such as setting reduce
 
 
 ### Features
-  - Product listing
-  - Search the product by text
-  - Product Details
-  - Login and Signup
-  - Add to cart
-  - Payment through paypal
-  - Update Shipping Details
+  - Video Streamking
+  - Live video Chart
+  - Resizing
+  - Cropping
+  - Clearing video
+  - Composite video streaming
 
 ## Built With
 

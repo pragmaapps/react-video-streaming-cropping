@@ -15,7 +15,7 @@ The React Video Streaming is a project relying on <a href='https://facebook.gith
 The structure of this project give the ability to developer to develop their project on their own idea and environment.
 <p align="center">
   <a href="https://react-ipragmatech-ecommerce.herokuapp.com/">
-    <img src="https://s3.amazonaws.com/react-ecommerce-ipragmatech/mockup.png">
+    <img src="/images/vstream.png">
   </a>
 </p>
 

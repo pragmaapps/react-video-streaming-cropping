@@ -40,7 +40,7 @@ and then install the package
 
 ### Installing
 
-1. Download the source code file or clone it from [http://git.ipragmatech.com/ipragmatech/react-ecommerce](http://git.ipragmatech.com/ipragmatech/react-ecommerce).
+1. Download the source code file or clone it from [https://github.com/ipragmatech/react-video-streaming-cropping](https://github.com/ipragmatech/react-video-streaming-cropping).
 
 2. Go to the project root directory
    ```bash
